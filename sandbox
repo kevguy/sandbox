@@ -33,6 +33,7 @@ export INDEXER_DISABLED=""
 export ALGOSEARCH_URL=""
 export ALGOSEARCH_BRANCH=""
 export ALGOSEARCH_SHA=""
+export ALGOSEARCH_DISABLED=""
 
 ######################################
 # Compatibility with Windows / MSYS2 #
